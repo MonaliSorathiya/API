@@ -3,37 +3,37 @@
     {
       "userId": 1,
       "id": 1,
-      "name": "Glory"
-      "department": "Software Engineer"
-      "address":"Bengaluru"
+      "name": "Glory",
+      "department": "Software Engineer".
+      "address":"Bengaluru",
       "email":"glory@gmail.com"
     },
     {
       "userId": 1,
-     "name": "Alpha"
-      "department": "Cloud Support Engineer"
-      "address":"Mumbai"
+     "name": "Alpha",
+      "department": "Cloud Support Engineer",
+      "address":"Mumbai",
       "email":"alpha@gmail.com"
     },
     {
       "userId": 1,
-     "name": "Allene"
-      "department": "Sales and marketing (Business development)"
-      "address":"Pune"
+     "name": "Allene",
+      "department": "Sales and marketing (Business development)",
+      "address":"Pune",
       "email":"allene@gmail.com"
     },
     {
       "userId": 1,
-      "name": "Merissa"
-      "department": "HR"
-      "address":"Delhi"
+      "name": "Merissa",
+      "department": "HR",
+      "address":"Delhi",
       "email":"merissa@gmail.com
     },
     {
       "userId": 1,
       "name": "Tom",
-      "department": "Accounts and Finance"
-      "address":"Hyderabad"
+      "department": "Accounts and Finance",
+      "address":"Hyderabad",
       "email":"tom@gmail.com"
     }
   ],
