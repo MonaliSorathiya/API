@@ -3,32 +3,38 @@
     {
       "userId": 1,
       "id": 1,
-      "name": "Angular",
-      "completed": "True"
+      "name": "Glory"
+      "department": "Software Engineer"
+      "address":"Bengaluru"
+      "email":"glory@gmail.com"
     },
     {
       "userId": 1,
-      "id": 2,
-      "name": "json",
-      "completed": "False"
+     "name": "Alpha"
+      "department": "Cloud Support Engineer"
+      "address":"Mumbai"
+      "email":"alpha@gmail.com"
     },
     {
       "userId": 1,
-      "id": 3,
-      "name": "server",
-      "completed": "True"
+     "name": "Allene"
+      "department": "Sales and marketing (Business development)"
+      "address":"Pune"
+      "email":"allene@gmail.com"
     },
     {
       "userId": 1,
-      "id": 4,
-      "name": "postman",
-      "completed": "False"
+      "name": "Merissa"
+      "department": "HR"
+      "address":"Delhi"
+      "email":"merissa@gmail.com
     },
     {
       "userId": 1,
-      "id": 5,
-      "name": "search",
-      "completed": "True"
+      "name": "Tom",
+      "department": "Accounts and Finance"
+      "address":"Hyderabad"
+      "email":"tom@gmail.com"
     }
   ],
   "comments": [
