@@ -31,17 +31,16 @@
       "department": "HR",
       "address":"Delhi",
       "email":"merissa@gmail.com
+    }.
+     {
+      "userId": 1,
+       "id": 5,
+      "name": "Tom",
+      "department": "Accounts&Finance",
+      "address":"Hyderabad",
+      "email":"tom@gmail.com"
     }
 
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   
 }
