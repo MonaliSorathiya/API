@@ -31,15 +31,8 @@
       "department": "HR",
       "address":"Delhi",
       "email":"merissa@gmail.com
-    },
-    {
-      "userId": 1,
-       "id": 5,
-      "name": "Tom",
-      "department": "Accounts&Finance",
-      "address":"Hyderabad",
-      "email":"tom@gmail.com"
     }
+
   ],
   "comments": [
     {
