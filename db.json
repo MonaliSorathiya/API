@@ -11,7 +11,7 @@
     {
       "userId": 1,
        "id": 2,
-     "name": "Alpha",
+      "name": "Alpha",
       "department": "Cloud Support Engineer",
       "address":"Mumbai",
       "email":"alpha@gmail.com"
@@ -19,7 +19,7 @@
     {
       "userId": 1,
        "id": 3,
-     "name": "Allene",
+      "name": "Allene",
       "department": "Sales and marketing (Business development)",
       "address":"Pune",
       "email":"allene@gmail.com"
@@ -32,7 +32,15 @@
       "address":"Delhi",
       "email":"merissa@gmail.com"
     }
-
   ],
-   
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
