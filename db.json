@@ -3,35 +3,65 @@
     {
       "userId": 1,
       "id": 1,
-      "name": "Glory",
-      "department": "Software Engineer",
+      "name": "Scott",
+      "department": "CEO",
       "address":"Bengaluru",
-      "email":"glory@gmail.com"
+      "email":"scott@gmail.com"
     },
     {
       "userId": 1,
        "id": 2,
       "name": "Alpha",
-      "department": "Cloud Support Engineer",
-      "address":"Mumbai",
+      "department": "CTO",
+      "address":"Hyderabad",
       "email":"alpha@gmail.com"
     },
+
     {
       "userId": 1,
        "id": 3,
-      "name": "Allene",
-      "department": "Sales and marketing (Business development)",
-      "address":"Pune",
-      "email":"allene@gmail.com"
+      "name": "Glory",
+      "department": "Software Engineer",
+      "address":"Ahmedabad",
+      "email":"glory@gmail.com"
     },
-    {
+	 {
       "userId": 1,
        "id": 4,
-      "name": "Tom",
-      "department": "HR",
+      "name": "Theo",
+      "department": "Cloud Support Engineer",
+      "address":"Kolkata",
+      "email":"theo@gmail.com"
+    },
+
+	 {
+      "userId": 1,
+       "id": 5,
+      "name": "Stiles",
+      "department": "Sales and marketing (Business development)",
       "address":"Delhi",
-      "email":"tom@gmail.com"
+      "email":"stiles@gmail.com"
+    },
+
+	 {
+      "userId": 1,
+       "id": 6,
+      "name": "Isaac",
+      "department": "HR",
+      "address":"Pune",
+      "email":"isaac@gmail.com"
+    },
+
+
+    {
+      "userId": 1,
+       "id": 7,
+      "name": "Peter",
+      "department": "Accounts and Finance",
+      "address":"Mumbai",
+      "email":"peter@gmail.com"
     }
+
   ],
   "comments": [
     {
