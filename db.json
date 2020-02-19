@@ -4,7 +4,7 @@
       "userId": 1,
       "id": 1,
       "name": "Scott",
-      "department": "CEO",
+      "department": "Software Engineer",
       "address":"Bengaluru",
       "email":"scott@gmail.com"
     },
@@ -12,7 +12,7 @@
       "userId": 1,
        "id": 2,
       "name": "Alpha",
-      "department": "CTO",
+      "department": "IT Project Manager",
       "address":"Hyderabad",
       "email":"alpha@gmail.com"
     },
@@ -21,7 +21,7 @@
       "userId": 1,
        "id": 3,
       "name": "Glory",
-      "department": "Software Engineer",
+      "department": "Systems Architect",
       "address":"Ahmedabad",
       "email":"glory@gmail.com"
     },
