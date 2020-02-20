@@ -13,7 +13,7 @@
        "id": 2,
       "name": "Alpha",
       "department": "IT Project Manager",
-      "address":"Hyderabad",
+      "address":"Kolkata",
       "email":"alpha@gmail.com"
     },
 
@@ -30,7 +30,7 @@
        "id": 4,
       "name": "Theo",
       "department": "Cloud Support Engineer",
-      "address":"Kolkata",
+      "address":"Delhi",
       "email":"theo@gmail.com"
     },
 
@@ -39,7 +39,7 @@
        "id": 5,
       "name": "Stiles",
       "department": "Sales and marketing (Business development)",
-      "address":"Delhi",
+      "address":"Hyderabad",
       "email":"stiles@gmail.com"
     },
 
